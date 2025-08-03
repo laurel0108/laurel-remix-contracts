@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"internalType": "bytes32[]",
+						"name": "_b",
+						"type": "bytes32[]"
+					}
+				],
+				"name": "put",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"test1.sol": "StorageTest"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"test1.sol": {
+			"keccak256": "0x79bcd603f59e07e9fc65c8b9690786ab25e8bc773014187b1af4da4dc7230418",
+			"urls": [
+				"bzz-raw://3052b16735da32c2c88b86a704bb2a7971105e06f2508f3bf97124193f0f0f82",
+				"dweb:/ipfs/QmPNJ9kEspSfCDsUXJW25T3Ls9yMqWQzjnyPDJYhmabmap"
+			]
+		}
+	},
+	"version": 1
+}
