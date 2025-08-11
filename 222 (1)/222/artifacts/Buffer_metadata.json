@@ -1,0 +1,36 @@
+{
+	"compiler": {
+		"version": "0.4.22+commit.4cb486ee"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"oraclizeAPI_0.4.sol": "Buffer"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"oraclizeAPI_0.4.sol": {
+			"keccak256": "0x8ccf0260397f2f437e89d104582a0fec1d78feb487f847a5d5da91d705d14d48",
+			"urls": [
+				"bzzr://e73179f26680396d57b9b0d0d32b9d9ddeee9d2ddf4f5b6ab211b5c9e534ed76"
+			]
+		}
+	},
+	"version": 1
+}
